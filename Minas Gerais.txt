@@ -1,0 +1,595 @@
+Cities with M=0:
+
+Água Comprida
+Alagoa
+Albertina
+Antônio Prado de Minas
+Aracitaba
+Arantina
+Araponga
+Araporã
+Arceburgo
+Argirita
+Arinos
+Baependi
+Bandeira do Sul
+Belo Horizonte
+Bocaina de Minas
+Bom Jesus da Penha
+Botelhos
+Brazópolis
+Bueno Brandão
+Cachoeira Dourada
+Caiana
+Cajuri
+Campestre
+Campo Florido
+Canápolis
+Caparaó
+Careaçu
+Carrancas
+Carvalhópolis
+Carvalhos
+Cascalho Rico
+Centralina
+Chiador
+Claraval
+Conceição da Aparecida
+Conceição das Alagoas
+Conceição das Pedras
+Conceição do Rio Verde
+Conceição dos Ouros
+Congonhal
+Consolação
+Cordislândia
+Coromandel
+Coronel Pacheco
+Córrego do Bom Jesus
+Cristália
+Cruzeiro da Fortaleza
+Cuparaque
+Delfim Moreira
+Delta
+Descoberto
+Divinésia
+Douradoquara
+Engenheiro Caldas
+Espírito Santo do Dourado
+Estrela do Sul
+Fama
+Fernandes Tourinho
+Formoso
+Fortaleza de Minas
+Goiabeira
+Gonçalves
+Grupiara
+Guaranésia
+Guarda-Mor
+Gurinhatã
+Ibiraci
+Ibitiúra de Minas
+Ilicínea
+Inconfidentes
+Indianópolis
+Ipiaçu
+Ipuiúna
+Itamogi
+Iturama
+Japaraíba
+Limeira do Oeste
+Luisburgo
+Mar de Espanha
+Maria da Fé
+Maripá de Minas
+Marliéria
+Marmelópolis
+Martins Soares
+Mata Verde
+Miravânia
+Monte Alegre de Minas
+Monte Santo de Minas
+Monte Sião
+Munhoz
+Nova Belém
+Nova Ponte
+Orizânia
+Padre Carvalho
+Paraguaçu
+Passa Vinte
+Patrocínio do Muriaé
+Pedra Bonita
+Pedralva
+Pedrinópolis
+Pedro Teixeira
+Pequeri
+Piau
+Pingo dÁgua
+Pintópolis
+Piranguçu
+Pirapetinga
+Prados
+Prata
+Pratinha
+Presidente Bernardes
+Riachinho
+Ribeirão Vermelho
+Rio Novo
+Rio Preto
+Rochedo de Minas
+Rodeiro
+Romaria
+Rosário da Limeira
+Rubelita
+Santa Bárbara do Monte Verde
+Santa Fé de Minas
+Santa Juliana
+Santa Rita de Caldas
+Santa Rita de Jacutinga
+Santa Rita do Itueto
+Santa Vitória
+Santana de Cataguases
+Santana do Deserto
+Santana do Garambéu
+Santo Antônio do Retiro
+São Francisco de Sales
+São João da Mata
+São João do Manteninha
+São João do Pacuí
+São José da Barra
+São José da Safira
+São José do Mantimento
+São Pedro da União
+São Sebastião da Bela Vista
+São Tomás de Aquino
+São Tomé das Letras
+Senador Amaral
+Senador Cortes
+Senador José Bento
+Serra dos Aimorés
+Silveirânia
+Silvianópolis
+Soledade de Minas
+Tabuleiro
+Taparuba
+Tocos do Moji
+Toledo
+Tombos
+Tupaciguara
+Umburatiba
+União de Minas
+Uruana de Minas
+Veríssimo
+Vermelho Novo
+Virgínia
+Wenceslau Braz
+
+
+Cities that dont have greatet connection with their capital state:
+
+Abadia dos Dourados
+ Água Comprida
+ Aguanil
+ Águas Formosas
+ Águas Vermelhas
+ Aimorés
+ Aiuruoca
+ Alagoa
+ Albertina
+ Além Paraíba
+ Alfenas
+ Alpercata
+ Alterosa
+ Alto Rio Doce
+ Amparo do Serra
+ Andradas
+ Andrelândia
+ Antônio Carlos
+ Antônio Prado de Minas
+ Araçaí
+ Aracitaba
+ Araguari
+ Arantina
+ Araponga
+ Araporã
+ Araxá
+ Arceburgo
+ Areado
+ Argirita
+ Arinos
+ Baependi
+ Bandeira do Sul
+ Barão de Monte Alto
+ Barroso
+ Belmiro Braga
+ Belo Horizonte
+ Berilo
+ Berizal
+ Bertópolis
+ Bias Fortes
+ Bicas
+ Boa Esperança
+ Bocaina de Minas
+ Bom Jardim de Minas
+ Bom Jesus da Penha
+ Bom Repouso
+ Bonfinópolis de Minas
+ Bonito de Minas
+ Borda da Mata
+ Botelhos
+ Botumirim
+ Brasilândia de Minas
+ Brazópolis
+ Bueno Brandão
+ Buritis
+ Buritizeiro
+ Cabeceira Grande
+ Cabo Verde
+ Cachoeira de Minas
+ Cachoeira Dourada
+ Caiana
+ Cajuri
+ Caldas
+ Camacho
+ Camanducaia
+ Cambuí
+ Cambuquira
+ Campanário
+ Campanha
+ Campestre
+ Campina Verde
+ Campo do Meio
+ Campo Florido
+ Campos Altos
+ Campos Gerais
+ Cana Verde
+ Canaã
+ Canápolis
+ Caparaó
+ Capinópolis
+ Carangola
+ Carbonita
+ Careaçu
+ Carmo da Cachoeira
+ Carmo do Rio Claro
+ Carneirinho
+ Carrancas
+ Carvalhópolis
+ Carvalhos
+ Casa Grande
+ Cascalho Rico
+ Cataguases
+ Caxambu
+ Centralina
+ Chalé
+ Chapada do Norte
+ Chapada Gaúcha
+ Chiador
+ Claraval
+ Coimbra
+ Comendador Gomes
+ Comercinho
+ Conceição da Aparecida
+ Conceição da Barra de Minas
+ Conceição das Alagoas
+ Conceição das Pedras
+ Conceição do Rio Verde
+ Conceição dos Ouros
+ Cônego Marinho
+ Congonhal
+ Conquista
+ Consolação
+ Coqueiral
+ Cordislândia
+ Coromandel
+ Coronel Murta
+ Coronel Pacheco
+ Coronel Xavier Chaves
+ Córrego do Bom Jesus
+ Cristais
+ Cristália
+ Cristina
+ Cruzeiro da Fortaleza
+ Cuparaque
+ Delfim Moreira
+ Delta
+ Descoberto
+ Desterro do Melo
+ Divinésia
+ Divisópolis
+ Dom Bosco
+ Dom Viçoso
+ Dores do Turvo
+ Doresópolis
+ Douradoquara
+ Durandé
+ Elói Mendes
+ Engenheiro Caldas
+ Espera Feliz
+ Espinosa
+ Espírito Santo do Dourado
+ Estiva
+ Estrela Dalva
+ Estrela do Sul
+ Eugenópolis
+ Extrema
+ Fama
+ Felisburgo
+ Fernandes Tourinho
+ Fervedouro
+ Formoso
+ Fortaleza de Minas
+ Francisco Badaró
+ Francisco Sá
+ Fronteira
+ Fruta de Leite
+ Frutal
+ Galiléia
+ Goiabeira
+ Gonçalves
+ Grupiara
+ Guaranésia
+ Guarani
+ Guarará
+ Guarda-Mor
+ Guaxupé
+ Guidoval
+ Guiricema
+ Gurinhatã
+ Iapu
+ Ibertioga
+ Ibiracatu
+ Ibiraci
+ Ibitiúra de Minas
+ Icaraí de Minas
+ Ijaci
+ Ilicínea
+ Imbé de Minas
+ Inconfidentes
+ Indaiabira
+ Indianópolis
+ Ingaí
+ Inhapim
+ Ipanema
+ Ipiaçu
+ Ipuiúna
+ Iraí de Minas
+ Itacambira
+ Itacarambi
+ Itajubá
+ Itamarati de Minas
+ Itamogi
+ Itamonte
+ Itanhandu
+ Itapagipe
+ Itapeva
+ Itueta
+ Ituiutaba
+ Itumirim
+ Iturama
+ Itutinga
+ Jacuí
+ Jacutinga
+ Januária
+ Japaraíba
+ Jenipapo de Minas
+ Jequeri
+ Joanésia
+ João Pinheiro
+ José Gonçalves de Minas
+ Juiz de Fora
+ Juruaia
+ Juvenília
+ Ladainha
+ Lagamar
+ Lagoa dos Patos
+ Lagoa Formosa
+ Lajinha
+ Lambari
+ Laranjal
+ Leopoldina
+ Liberdade
+ Lima Duarte
+ Limeira do Oeste
+ Lontra
+ Luisburgo
+ Machacalis
+ Machado
+ Madre de Deus de Minas
+ Mamonas
+ Manga
+ Manhumirim
+ Mar de Espanha
+ Maria da Fé
+ Maripá de Minas
+ Marliéria
+ Marmelópolis
+ Martins Soares
+ Mata Verde
+ Mathias Lobato
+ Matias Barbosa
+ Mato Verde
+ Mendes Pimentel
+ Mercês
+ Minas Novas
+ Minduri
+ Miraí
+ Miravânia
+ Monsenhor Paulo
+ Montalvânia
+ Monte Alegre de Minas
+ Monte Belo
+ Monte Carmelo
+ Monte Santo de Minas
+ Monte Sião
+ Montezuma
+ Munhoz
+ Muriaé
+ Mutum
+ Muzambinho
+ Natalândia
+ Natércia
+ Ninheira
+ Nova Belém
+ Nova Módica
+ Nova Ponte
+ Nova Resende
+ Novo Cruzeiro
+ Olaria
+ Olímpio Noronha
+ Orizânia
+ Ouro Fino
+ Ouro Verde de Minas
+ Padre Carvalho
+ Palma
+ Paracatu
+ Paraguaçu
+ Paraisópolis
+ Passa Quatro
+ Passa Vinte
+ Passos
+ Patis
+ Patos de Minas
+ Patrocínio
+ Patrocínio do Muriaé
+ Pedra Bonita
+ Pedralva
+ Pedrinópolis
+ Pedro Teixeira
+ Pequeri
+ Perdizes
+ Piau
+ Piedade do Rio Grande
+ "Pingo dÁgua",
+ Pintópolis
+ Pirajuba
+ Piranguçu
+ Piranguinho
+ Pirapetinga
+ Piraúba
+ Piumhi
+ Poço Fundo
+ Poços de Caldas
+ Ponto Chique
+ Porto Firme
+ Pouso Alegre
+ Pouso Alto
+ Prados
+ Prata
+ Pratápolis
+ Pratinha
+ Presidente Bernardes
+ Presidente Olegário
+ Recreio
+ Reduto
+ Resplendor
+ Riachinho
+ Ribeirão Vermelho
+ Rio do Prado
+ Rio Novo
+ Rio Pardo de Minas
+ Rio Pomba
+ Rio Preto
+ Rio Vermelho
+ Rochedo de Minas
+ Rodeiro
+ Romaria
+ Rosário da Limeira
+ Rubelita
+ Sacramento
+ Santa Bárbara do Monte Verde
+ Santa Fé de Minas
+ Santa Helena de Minas
+ Santa Juliana
+ Santa Margarida
+ Santa Rita de Caldas
+ Santa Rita de Jacutinga
+ Santa Rita de Minas
+ Santa Rita do Itueto
+ Santa Rita do Sapucaí
+ Santa Vitória
+ Santana de Cataguases
+ Santana do Deserto
+ Santana do Garambéu
+ Santo Antônio do Aventureiro
+ Santo Antônio do Itambé
+ Santo Antônio do Monte
+ Santo Antônio do Retiro
+ Santo Antônio do Rio Abaixo
+ Santo Hipólito
+ Santos Dumont
+ São Bento Abade
+ São Domingos das Dores
+ São Félix de Minas
+ São Francisco
+ São Francisco de Sales
+ São Francisco do Glória
+ São Geraldo
+ São Gonçalo do Sapucaí
+ São João da Lagoa
+ São João da Mata
+ São João da Ponte
+ São João do Manhuaçu
+ São João do Manteninha
+ São João do Pacuí
+ São João do Paraíso
+ São João Evangelista
+ São João Nepomuceno
+ São José da Barra
+ São José da Safira
+ São José do Alegre
+ São José do Mantimento
+ São Lourenço
+ São Miguel do Anta
+ São Pedro da União
+ São Sebastião da Bela Vista
+ São Sebastião do Anta
+ São Sebastião do Paraíso
+ São Sebastião do Rio Verde
+ São Tomás de Aquino
+ São Tomé das Letras
+ Sapucaí-Mirim
+ Senador Amaral
+ Senador Cortes
+ Senador Firmino
+ Senador José Bento
+ Senhora dos Remédios
+ Serra do Salitre
+ Serra dos Aimorés
+ Silveirânia
+ Silvianópolis
+ Simão Pereira
+ Sobrália
+ Soledade de Minas
+ Tabuleiro
+ Taiobeiras
+ Taparuba
+ Tarumirim
+ Teixeiras
+ Tiros
+ Tocantins
+ Tocos do Moji
+ Toledo
+ Tombos
+ Tupaciguara
+ Turvolândia
+ Ubaí
+ Uberaba
+ Uberlândia
+ Umburatiba
+ Unaí
+ União de Minas
+ Uruana de Minas
+ Urucuia
+ Vargem Alegre
+ Vargem Grande do Rio Pardo
+ Varginha
+ Varjão de Minas
+ Varzelândia
+ Vazante
+ Veríssimo
+ Vermelho Novo
+ Vieiras
+ Virgem da Lapa
+ Virgínia
+ Volta Grande
+ Wenceslau Braz

@@ -1,0 +1,171 @@
+Cities with M=0:
+
+Altair
+Álvares Florence
+Aspásia
+Balbinos
+Bento de Abreu
+Bom Sucesso de Itararé
+Borá
+Brejo Alegre
+Buritizal
+Caiabu
+Campos Novos Paulista
+Cedral
+Cruzália
+Dirce Reis
+Dumont
+Echaporã
+Elisiário
+Embaúba
+Flórida Paulista
+Gabriel Monteiro
+Gastão Vidigal
+Ipiguá
+Itaju
+Jeriquara
+Lucianópolis
+Lupércio
+Marapoama
+Marinópolis
+Mesópolis
+Mirassolândia
+Monções
+Nantes
+Nipoã
+Nova Canaã Paulista
+Nova Castilho
+Nuporanga
+Ocauçu
+Palmares Paulista
+Paulo de Faria
+Pedranópolis
+Pontal
+Pracinha
+Pradópolis
+Queiroz
+Ribeirão Bonito
+Ribeirão dos Índios
+Riolândia
+Rubiácea
+Salmourão
+Sandovalina
+São Francisco
+São João das Duas Pontes
+São José da Bela Vista
+São Paulo
+Taciba
+Taquaral
+Timburi
+Trabiju
+Turmalina
+União Paulista
+Vitória Brasil
+Zacarias
+
+
+Cities that dont have greatet connection with their capital state:
+
+ Adolfo
+ Altair
+ Álvares Florence
+ Álvares Machado
+ Alvinlândia
+ Anhumas
+ Apiaí
+ Arapeí
+ Aspásia
+ Auriflama
+ Balbinos
+ Barra do Turvo
+ Bento de Abreu
+ Bom Sucesso de Itararé
+ Borá
+ Brejo Alegre
+ Buritizal
+ Caiabu
+ Cajati
+ Campina do Monte Alegre
+ Campos Novos Paulista
+ Cedral
+ Conchal
+ Cruzália
+ Dirce Reis
+ Dumont
+ Echaporã
+ Elisiário
+ Embaúba
+ Fernão
+ Floreal
+ Flórida Paulista
+ Gabriel Monteiro
+ Gastão Vidigal
+ Guaraci
+ Guariba
+ Iaras
+ Ibirá
+ Ilha Solteira
+ Ipiguá
+ Itaju
+ Itaoca
+ Itapirapuã Paulista
+ Itapura
+ Jaci
+ Jeriquara
+ Lucianópolis
+ Lupércio
+ Macaubal
+ Marapoama
+ Marinópolis
+ Mesópolis
+ Mirante do Paranapanema
+ Mirassolândia
+ Monções
+ Nantes
+ Nipoã
+ Nova Aliança
+ Nova Canaã Paulista
+ Nova Castilho
+ Nova Independência
+ Nuporanga
+ Ocauçu
+ Onda Verde
+ Ouroeste
+ Palmares Paulista
+ Palmital
+ Paranapuã
+ Paulo de Faria
+ Pedranópolis
+ Pedregulho
+ Planalto
+ Pontal
+ Populina
+ Pracinha
+ Pradópolis
+ Queiroz
+ Queluz
+ Ribeira
+ Ribeirão Bonito
+ Ribeirão dos Índios
+ Riolândia
+ Rosana
+ Rubiácea
+ Rubinéia
+ Salmourão
+ Sandovalina
+ Santa Adélia
+ Santa Cruz da Esperança
+ Santa Maria da Serra
+ São Francisco
+ São João das Duas Pontes
+ São José da Bela Vista
+ São José do Barreiro
+ Taciba
+ Taquaral
+ Timburi
+ Torre de Pedra
+ Trabiju
+ Turmalina
+ União Paulista
+ Vitória Brasil
+ Zacarias
